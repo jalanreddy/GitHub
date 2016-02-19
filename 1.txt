@@ -1,0 +1,16 @@
+Since your work is based on a paper (as acknowledged in section 1.5), what you said in the abstract "We present a weakly developed boot strapping algorithm by overcoming the existing system deficiencies. The proposed system..."  is not appropriate. Please double check the entire document and make corrections. Also a question about the title: Should "entity" be entities? (I need more time to go through the entire document)
+
+
+Jalan, Can we meet on Monday or Wed of coming week? I’d like to have your explanation of your work and a demo. I also have some other questions and suggestions, particularly the main algorithm used in your work. (You did talk about implementation in some detail, but the main steps used in the methodology  itself are not clear to me.) You don’t have to provide a new version before we meet, but you should get problems fixed (including what I mentioned last time) soon.
+
+
+I’m still trying to figure out the significance of your work. I already told you what I thought when you were in my office, and I have not changed my mind. Could you provide a better justification on the significance of your work?
+
+
+My previous email was brief because I was interrupted by a visit of a student. Here let me summarize what I told you in the last few weeks:
+n  You should revise your document and “change the tone” – you should use Li et al’s paper (not Jindal and Liu) as main reference, rather than pretending to be part of Li’s group.
+
+n  Based on what you told me last time, there is little can be claimed as “mining” – in particular, you gave me an impression that user input will expand the accessible group (without validation, etc.). My understanding may not be correct, so how can you explain your work in a better way to justify its importance? It looks like you did some coding work, but meaning of your work need a better justification.
+
+
+Jalan, I have tried to understand the meaning of your work and how it makes sense for data mining, but the revised document still keeps talking about syntax of input and implementation.
